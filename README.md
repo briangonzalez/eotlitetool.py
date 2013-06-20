@@ -1,4 +1,4 @@
-### eotlitetool.py
+# eotlitetool.py
 _create EOT version of OpenType font for use with IE_
 
 ### Usage
